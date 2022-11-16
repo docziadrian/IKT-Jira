@@ -1,2 +1,3 @@
 # IKT-Jira
-Jirához projekt
+#
+#látványterv elkészült
