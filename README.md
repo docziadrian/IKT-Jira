@@ -1,0 +1,2 @@
+# IKT-Jira
+Jirához projekt
